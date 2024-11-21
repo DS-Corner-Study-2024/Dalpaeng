@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter8_advanced_jpa/advanced_jpa.iml" filepath="$PROJECT_DIR$/chapter8_advanced_jpa/advanced_jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter6_jpa/jpa.iml" filepath="$PROJECT_DIR$/chapter6_jpa/jpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/serverBox/serverBox.iml" filepath="$PROJECT_DIR$/serverBox/serverBox.iml" />
     </modules>
   </component>
 </project>

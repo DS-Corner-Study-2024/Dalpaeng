@@ -14,7 +14,7 @@
         <module name="design_pattern" />
         <module name="test" />
         <module name="chapter1" />
-        <module name="serverBox" />
+        <module name="api (1)" />
         <module name="actuator" />
         <module name="security" />
         <module name="serverbox" />
@@ -39,6 +39,7 @@
       <module name="actuator" options="-parameters" />
       <module name="advanced_jpa" options="-parameters" />
       <module name="api" options="-parameters" />
+      <module name="api (1)" options="-parameters" />
       <module name="chapter1" options="-parameters" />
       <module name="chapter11_restTemplate" options="-parameters" />
       <module name="chapter2" options="-parameters" />
